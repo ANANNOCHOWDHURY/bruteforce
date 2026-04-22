@@ -26,4 +26,30 @@ Example:
 ...
 9999
 
+## 📥 Installation
 
+Follow the steps below to install and run the tool:
+
+Clone the Repository:
+```bash
+https://github.com/ANANNOCHOWDHURY/bruteforce.git
+```
+
+Enter file:
+```bash
+cd bruteforce.sh 
+```
+
+Give permission:
+```bash
+chmod +x install.sh
+```
+
+Run the script:
+```bash
+./bruteforce.sh
+```
+OR
+```bash
+bash bruteforce.sh
+```
