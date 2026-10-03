@@ -81,6 +81,9 @@ OR
 ```bash
 bash bruteforce.sh
 ```
+## `> license`
+
+All Rights Reserved — © 2026 Ananno Chowdhury. See [`LICENSE`](./LICENSE) for the full terms. No part of this source code, design, or content may be copied, reused, or redistributed without written permission.
 
 <br/>
 
